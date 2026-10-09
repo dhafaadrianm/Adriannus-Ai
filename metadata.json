@@ -1,0 +1,6 @@
+{
+  "name": "Adrianus AI - Asisten Pintar",
+  "description": "Asisten AI pintar elegan dan modern bergaya Apple dari PT DHAFA TETAP BERUSAHA dengan histori percakapan, ekspor berkas, dan fitur interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
